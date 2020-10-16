@@ -1,0 +1,23 @@
+
+C:\Users\enriq\OneDrive\Grado DAM\2你寸\Programaci▋ de servicios y procesos\7>MD NUEVO 
+
+C:\Users\enriq\OneDrive\Grado DAM\2你寸\Programaci▋ de servicios y procesos\7>CD NUEVO 
+
+C:\Users\enriq\OneDrive\Grado DAM\2你寸\Programaci▋ de servicios y procesos\7\NUEVO>ECHO CREO FICHERO  1>mifichero.txt 
+
+C:\Users\enriq\OneDrive\Grado DAM\2你寸\Programaci▋ de servicios y procesos\7\NUEVO>DIR
+ El volumen de la unidad C no tiene etiqueta.
+ El nσero de serie del volumen es: 14A2-7FCB
+
+ Directorio de C:\Users\enriq\OneDrive\Grado DAM\2你寸\Programaci▋ de servicios y procesos\7\NUEVO
+
+16/10/2020  20:34    <DIR>          .
+16/10/2020  20:34    <DIR>          ..
+16/10/2020  20:36                15 mifichero.txt
+               1 archivos             15 bytes
+               2 dirs  21.019.987.968 bytes libres
+
+C:\Users\enriq\OneDrive\Grado DAM\2你寸\Programaci▋ de servicios y procesos\7\NUEVO>DIRR
+
+C:\Users\enriq\OneDrive\Grado DAM\2你寸\Programaci▋ de servicios y procesos\7\NUEVO>ECHO FIN COMANDOS 
+FIN COMANDOS
